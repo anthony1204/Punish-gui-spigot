@@ -1,0 +1,11 @@
+#this is the ban message.
+#example: /punish
+#clickes on 12 hours
+#types Notch in chat
+#notch gets banned with the reason that is below. set the reason to whatever you want.
+#the reason is pretty much like /ban Notch <reason>
+#replace YOU HAVE BEEN BANNED with your ban reason
+#you may use color codes like &c and &b
+# &c is red
+banReason: YOU HAVE BEEN &cBANNED!!!
+#if you would like to reset the config delete it
